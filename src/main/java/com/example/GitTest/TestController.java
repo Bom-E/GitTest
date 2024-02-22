@@ -10,6 +10,7 @@ public class TestController {
     public String main(){
         System.out.println(1111111);
         System.out.println("이 코드는 dev 브렌치에서 추가함");
+        System.out.println("오류 확인 완");
         return "main";
     }
 }
